@@ -45,9 +45,9 @@
 # 🔗 Connect With Me
 
 <p align="center">
-<a href="mailto:iamustapha213@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Email Me"></a>
-<a href="https://t.me/projecthanif"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send a Telegram message"></a>
-<a href="https://wa.me/+2349061887329"><img src="./assets/whatsapp.jpeg" alt="WhatsApp" height="50" title="Send WhatsApp message"></a>
+<a href="mailto:adyems@truszedproperties.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Email Me"></a>
+<a href="https://t.me/adyems"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send a Telegram message"></a>
+<a href="https://wa.me/+2349139293270"><img src="./assets/whatsapp.jpeg" alt="WhatsApp" height="50" title="Send WhatsApp message"></a>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ✨ I value strong client relationships built on trust and communication  
 ✨ I enjoy collaborative work with teams  
 ✨ I continuously seek to expand my technical skillset  
-✨ I’m especially focused on Laravel, PHP, Tailwind CSS, Bootstrap, MySQL, and modern front-end frameworks
+✨ I’m especially focused on Laravel, PHP,react js, react native, fultter Tailwind CSS, Bootstrap, MySQL, and modern front-end frameworks
 
 ---
 
