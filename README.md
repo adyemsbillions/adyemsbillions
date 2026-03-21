@@ -2,11 +2,7 @@
 
 # Hello World!, I'm Adyems Billions, a Nigerian Web & App Developer 👋🏼:
 
-🛜 Currently working on a customer support chat system and property management platform  
-👨🏼‍🎓 Studying Computer Engineering as an undergraduate in Nigeria  
-👨🏼‍💻 Building web and mobile applications since 2022  
-🎯 Passionate about creating secure, user-friendly solutions for real-world problems
-
+I JUST LOVE BUILD STUFFS
 ---
 
 # 💻 Tech Stack:
